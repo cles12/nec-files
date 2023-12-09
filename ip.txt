@@ -5,16 +5,8 @@ User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 
 Version              : x86_64;
 Browser              : Firefox
 Location             : Accra, Ghana, Africa
-GeoLocation(lat, lon): 5.6037168, -0.1869644
+GeoLocation(lat, lon): 6.4537168, -0.18693221
 Currency             : Ghanaian Cedi
 
-IP                   : 41.204.44.179
-IP Type              : IPv4
-User OS              : Linux
-User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
-Version              : x86_64;
-Browser              : Firefox
-Location             : Accra, Ghana, Africa
-GeoLocation(lat, lon): 5.6037168, -0.1869644
-Currency             : Ghanaian Cedi
+
 
